@@ -9,6 +9,7 @@
   "author": "Esteban Muñoz Lagos",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.13.4"
+    "express": "^4.13.4",
+    "jade": "*"
   }
 }
