@@ -2,8 +2,8 @@ var express = require("express");
 var app = express();
 
 app.get("/", function(req, res) {
-    res.send("Hola Mundo!");
+    res.send("Luckio Home Page");
 });
 
-app.listen(3000);
-console.log("Escuchando en el puerto 3000");
+app.listen(80);
+console.log("Escuchando en el puerto 80");
